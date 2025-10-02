@@ -1,0 +1,10 @@
+{
+  "name": "4",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^24.6.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
